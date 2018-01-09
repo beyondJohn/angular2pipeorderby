@@ -1,3 +1,7 @@
+## Order array objects using js array.sort() function within an Angular2+ Pipe passing multiple ordering parameters. First order by start date, then by end date, then by event name.
+
+## There are only 3 files that are manually created, so if the app does not clone successfully then create a new ng app locallay and copy paste the necessary files over( this was created using mac but I ran into isuues cloning to pc, may be angular-cli version issue, idk.)
+
 # Pipetest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
